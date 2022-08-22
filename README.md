@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **IDA, Reverse Engineering, Malware Analysis related**
 
-- 📫 How to reach me **ngyzjeremy@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/jeremyng123/](https://www.linkedin.com/in/jeremyng123/)
 
 <h3 align="left">Connect with me:</h3>
