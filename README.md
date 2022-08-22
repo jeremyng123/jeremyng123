@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jeremyng123](https://github.com/jeremyng123)
 
-- 💬 Ask me about **IDA, C, JavaScript, Python, PowerShell, bash**
+- 💬 Ask me about **IDA, Reverse Engineering, Malware Analysis related**
 
 - 📫 How to reach me **ngyzjeremy@gmail.com**
 
